@@ -1,0 +1,10 @@
+halflife.wad
+ze_radioactive_dp.wad
+firma_multipower.wad
+maps/ze_radioactive_dp.res
+maps/ze_radioactive_dp.txt
+maps/ze_radioactive_dp.bsp
+sound/ze_radioactive_v1/biohazard.wav
+sound/ze_radioactive_v1/evacute_area.wav
+sound/ze_radioactive_v1/final.wav
+sound/ze_radioactive_v1/rescate_jairo_multi.wav
