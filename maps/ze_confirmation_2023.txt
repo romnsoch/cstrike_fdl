@@ -1,0 +1,23 @@
+ze_confirmation_2023
+
+Current Version: 2.0.0	
+Difficulty: HARD
+Zombie Escape Type: BATTLE
+This map is created by Eula 
+
+Before the next situation, this map is a game time limit for 9 minutes as estimated. There are 10 types at this hall.
+
+1st 	- Run & Defend
+2nd 	- The Bridge
+3rd	- Maze
+4th	- Maze Reverse
+5th	- Ducks
+6th	- Ladders
+7th	- Closing Door
+8th	- Traps
+9th	- Escalator Movement
+10th	- Cylinder Rocks Jumping
+
+From 1st to 9th, elevator will wait for 10 seconds. And finally 10th, elevator final escape will wait for 50 seconds as well.
+Humans are worth to inside elevator once the players who have best defenders, elevator are now lifted and successfully confirmed.
+Zombies zone which will be released about 10 seconds after the humans goes in the next hall.
